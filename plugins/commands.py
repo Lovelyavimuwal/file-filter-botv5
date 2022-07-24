@@ -55,7 +55,7 @@ async def start(client, message):
             InlineKeyboardButton('🌷Join my group', url='https://t.me/+adCA3W3eR65mZjE1'),
             InlineKeyboardButton('♻️ About ♻️', callback_data='about')
             ],[
-            InlineKeyboardButton('✅ Subscribe my YouTube channel  ✅', url='https://youtube.com/channel/UC5NGR7M4y5c8xm_uFufClNA')
+            InlineKeyboardButton('✅ Subscribe my YouTube channel  ✅','https://youtube.com/channel/UC5NGR7M4y5c8xm_uFufClNA')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
