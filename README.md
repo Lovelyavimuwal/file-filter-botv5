@@ -44,7 +44,7 @@
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[HOW TO DEPLOY WTCH THIS VIDEO...](https://t.me/playerjetmoviesofficial)**</i>
+<i>**[HOW TO DEPLOY WTCH THIS VIDEO...](https://youtube.com/channel/UC5NGR7M4y5c8xm_uFufClNA)**</i>
 
 
 <details><summary>Deploy To Heroku</summary>
@@ -97,5 +97,5 @@ python3 bot.py
 • /broadcast - to broadcast a message to Ajax users
 ```
 
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 👉 [Avi Muwal](https://t.me/lovelyavimuwal)                                                                                                                                                                                 
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 👉 [movies house](https://t.me/playerjetmoviesofficial)
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 👉 [Avi Muwal]()                                                                                                                                                                                 
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻 👉 [goodnightmovies](https://t.me/goodnightmovies)
